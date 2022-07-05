@@ -1,0 +1,67 @@
+button{
+    background-color: rgb(19, 115, 200);
+}
+
+.bot{
+    color: aliceblue;
+
+}
+.navi{
+    display: flex;
+    flex: 40rem;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    
+    
+    
+    
+    
+
+   
+    
+}
+
+.main_head{
+    background:whitesmoke;
+    color:black;
+   
+    
+}
+
+#about{
+    min-height: 90vh;
+    display: flex;
+    color:black;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+body{
+    background-attachment: fixed;
+    background-image:url(abdo/folder/back3.gif);
+    
+    background-repeat:inherit;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.mainer{
+}
+
+#work{
+
+}
+.resume{
+    background-color:white;
+    width: 300px;
+    padding: 14px 110px;
+    border-radius: 12px;
+    
+}
