@@ -1,5 +1,6 @@
 button{
     background-color: rgb(19, 115, 200);
+    border-radius: 12px;
 }
 
 .bot{
@@ -25,6 +26,7 @@ button{
 .main_head{
     background:whitesmoke;
     color:black;
+    border-radius: 12px;
    
     
 }
@@ -52,16 +54,39 @@ a{
     font-size: 25px;
 }
 
-.mainer{
+#work{
+    background-color:whitesmoke;
+    width: 400px;
+    padding: 14px 110px;
+    border-radius: 12px;
+
 }
 
-#work{
+.liste{
+    background-color:whitesmoke;
+    width: 200px;
+    margin-top: 50px;
+    border-radius: 12px;
 
 }
 .resume{
-    background-color:white;
-    width: 300px;
-    padding: 14px 110px;
+    background-color:whitesmoke;
+    background-position: 90px ;
+    width: 440px;
+    padding-left: 60px;
     border-radius: 12px;
+    padding-bottom: 10px;
     
+}
+.music{
+    margin-top: 40px;
+    background-color: whitesmoke;
+    margin-right: 1000px;
+    border-radius: 12px;
+}
+
+#contact{
+    background-color: whitesmoke;
+    margin-right: 1100px;
+    border-radius: 12px;
 }
